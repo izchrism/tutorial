@@ -12,7 +12,6 @@ int main(){
 
     std::cout << "How many elements would you like to add? " << std::endl;
     std::cin >> number_of_elements;
-    std::cout <<"HELlO"<<std::endl;
 
     for (int i = 0; i < number_of_elements; i++){
 
